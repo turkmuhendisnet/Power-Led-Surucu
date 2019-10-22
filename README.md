@@ -8,12 +8,12 @@ Devrenin simülasyon çiziminde proteus kullanılmış ve gerekli simülasyon ya
 
 ## Devre ARES Çizimi
 Yaptığımız proteus çizimini plakaya aktarmak gerekmektedir ve bu aktarımı yapmak için ares kullanılmıştır. ISIS'te çizilen devre ARES’e aktarılmış ve akımın takip edeceği yollar otomatik olarak çizdirilmiş, atlamalar ortadan kaldırılmıştır. Bu işlem sonucu oluşan yollar resim’de görülmektedir.
-![ISIS Resmi](https://github.com/turkmuhendisnet/Power-Led-Surucu/blob/master/ISIS%20Resmi.jpg)
+![ARES Resmi](https://github.com/turkmuhendisnet/Power-Led-Surucu/blob/master/ARES%20Resmi.jpg)
 
 ## Devre ARES'ten PDF’YE Aktarımı
 Devremizi ancak fotokopi ile pcbye aktarabiliriz. Bundan dolayı çizdiğimiz aresi Output-Export PDF file ile pdfye aktardık. Bu çizim resim’de verilmektedir.
-  ![ISIS Resmi](https://github.com/turkmuhendisnet/Power-Led-Surucu/blob/master/ISIS%20Resmi.jpg)
+  ![PDF Resmi](https://github.com/turkmuhendisnet/Power-Led-Surucu/blob/master/Plaka%20Resmi.jpg)
   
 ## Devrenin PCB’YE Aktarımı
 Çıktısı alınmış yağlı kağıtın alınmış olan çizimin yolları üzerinden asetatlı kalem ile geçilmiştir ve daha sonra kağıdımız plaketin üzerine yerleştirilmiştir. Kağıt ütülendikten sonra ise kağıt çıkartılmış yollarda kaybolma var ise asetatlı kalem ile bu yollar yeniden çizilmiştir. Sonra plaket behidrol tuzruhu karışımına atılmış ve yollar oluşmuştur. 
-  ![ISIS Resmi](https://github.com/turkmuhendisnet/Power-Led-Surucu/blob/master/ISIS%20Resmi.jpg)
+  ![Power Led Sürücü Resmi](https://github.com/turkmuhendisnet/Power-Led-Surucu/blob/master/Plaka%20Resmi.jpg)
